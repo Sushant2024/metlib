@@ -1,2 +1,2 @@
 # Library
-A site that has immense collection of books presently for Metallurgy Branch 
+An immense collection of notes and books for Metallurgy Branch.
